@@ -1,4 +1,0 @@
-access token: 1233051713285718018-m3FLZV6x8yOyvnE4ec2IytmxL6v5Tn
-access token secret: 8s6sfWevNxYnIaTfpqAG464hq3pgej0Ic64vWuF5deYLQ
-consumer key: zbKhIHeT3InEHe9KJodfDxKGk
-consumer secret key: M8JACHJkjSRMFi4EL5ElFsbD9M0URBexBlMZire4oDycmhDNzS
